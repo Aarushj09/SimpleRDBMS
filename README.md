@@ -1,26 +1,5 @@
-# SimpleRA
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vawqGWCI)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12621818&assignment_repo_type=AssignmentRepo)
+# BPTree
 
-## Compilation Instructions
-
-We use ```make``` to compile all the files and creste the server executable. To compile
-
-```cd``` into the SimpleRA directory
-```
-cd SimpleRA
-```
-```cd``` into the soure directory (called ```src```)
-```
-cd src
-```
-To compile
-```
-make clean
-make
-```
-
-## To run
-
-Post compilation, an executable names ```server``` will be created in the ```src``` directory
-```
-./server
-```
+![](./docs/chart.gif)
